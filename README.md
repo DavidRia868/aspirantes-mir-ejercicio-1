@@ -41,7 +41,8 @@ $ git commit -m 'Versión Inicial'
  create mode 100644 README.md
 
 Agregar al README.md los comandos que ejecutaron en cada paso.
-listo
+Agregado el código de comandos
 Crear un nuevo commit con el mensaje “Agrega solución primer ejercicio”
+
 Publicar a Github en un repositorio llamado aspirantes-mir-ejercicio-1.
 Enviar el link del repositorio en Github a su mentor(a).
