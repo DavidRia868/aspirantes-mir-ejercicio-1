@@ -43,6 +43,13 @@ $ git commit -m 'Versión Inicial'
 Agregar al README.md los comandos que ejecutaron en cada paso.
 Agregado el código de comandos---
 Crear un nuevo commit con el mensaje “Agrega solución primer ejercicio”
+git add .
+$ git commit -m "Agrega solución primer ejercicio"
+[master f74af29] Agrega solución primer ejercicio
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 
 Publicar a Github en un repositorio llamado aspirantes-mir-ejercicio-1.
+$ git remote add origin https://github.com/DavidRia868/aspirantes-mir-ejercicio-1.git
+$ git branch -M main
+
 Enviar el link del repositorio en Github a su mentor(a).
