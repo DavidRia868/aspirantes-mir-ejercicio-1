@@ -52,4 +52,4 @@ Publicar a Github en un repositorio llamado aspirantes-mir-ejercicio-1.
 $ git remote add origin https://github.com/DavidRia868/aspirantes-mir-ejercicio-1.git
 $ git branch -M main
 
-Enviar el link del repositorio en Github a su mentor(a).
+Enviar el link del repositorio en Github a su mentor(a).https://github.com/DavidRia868/aspirantes-mir-ejercicio-1
